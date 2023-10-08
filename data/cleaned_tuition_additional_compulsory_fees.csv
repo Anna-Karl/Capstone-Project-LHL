@@ -1,0 +1,116 @@
+REF_DATE,GEO,Level of study,VALUE
+2019/2020,Canada,Canadian undergraduate,7382.0
+2020/2021,Canada,Canadian undergraduate,7508.0
+2021/2022,Canada,Canadian undergraduate,7659.0
+2022/2023,Canada,Canadian undergraduate,7916.0
+2023/2024,Canada,Canadian undergraduate,8167.0
+2019/2020,Canada,Canadian graduate,8048.0
+2020/2021,Canada,Canadian graduate,8245.0
+2021/2022,Canada,Canadian graduate,8282.0
+2022/2023,Canada,Canadian graduate,8400.0
+2023/2024,Canada,Canadian graduate,8608.0
+2019/2020,Newfoundland and Labrador,Canadian undergraduate,3821.0
+2020/2021,Newfoundland and Labrador,Canadian undergraduate,3806.0
+2021/2022,Newfoundland and Labrador,Canadian undergraduate,3879.0
+2022/2023,Newfoundland and Labrador,Canadian undergraduate,4223.0
+2023/2024,Newfoundland and Labrador,Canadian undergraduate,3858.0
+2019/2020,Newfoundland and Labrador,Canadian graduate,3527.0
+2020/2021,Newfoundland and Labrador,Canadian graduate,3340.0
+2021/2022,Newfoundland and Labrador,Canadian graduate,4244.0
+2022/2023,Newfoundland and Labrador,Canadian graduate,4090.0
+2023/2024,Newfoundland and Labrador,Canadian graduate,3541.0
+2019/2020,Prince Edward Island,Canadian undergraduate,7410.0
+2020/2021,Prince Edward Island,Canadian undergraduate,7535.0
+2021/2022,Prince Edward Island,Canadian undergraduate,7620.0
+2022/2023,Prince Edward Island,Canadian undergraduate,7756.0
+2023/2024,Prince Edward Island,Canadian undergraduate,8115.0
+2019/2020,Prince Edward Island,Canadian graduate,5658.0
+2020/2021,Prince Edward Island,Canadian graduate,5791.0
+2021/2022,Prince Edward Island,Canadian graduate,5942.0
+2022/2023,Prince Edward Island,Canadian graduate,6253.0
+2023/2024,Prince Edward Island,Canadian graduate,6539.0
+2019/2020,Nova Scotia,Canadian undergraduate,9455.0
+2020/2021,Nova Scotia,Canadian undergraduate,9556.0
+2021/2022,Nova Scotia,Canadian undergraduate,10048.0
+2022/2023,Nova Scotia,Canadian undergraduate,10312.0
+2023/2024,Nova Scotia,Canadian undergraduate,10653.0
+2019/2020,Nova Scotia,Canadian graduate,10428.0
+2020/2021,Nova Scotia,Canadian graduate,10487.0
+2021/2022,Nova Scotia,Canadian graduate,11221.0
+2022/2023,Nova Scotia,Canadian graduate,11185.0
+2023/2024,Nova Scotia,Canadian graduate,11520.0
+2019/2020,New Brunswick,Canadian undergraduate,8196.0
+2020/2021,New Brunswick,Canadian undergraduate,8336.0
+2021/2022,New Brunswick,Canadian undergraduate,8656.0
+2022/2023,New Brunswick,Canadian undergraduate,9001.0
+2023/2024,New Brunswick,Canadian undergraduate,9442.0
+2019/2020,New Brunswick,Canadian graduate,6997.0
+2020/2021,New Brunswick,Canadian graduate,7249.0
+2021/2022,New Brunswick,Canadian graduate,7765.0
+2022/2023,New Brunswick,Canadian graduate,7724.0
+2023/2024,New Brunswick,Canadian graduate,7997.0
+2019/2020,Quebec,Canadian undergraduate,4022.0
+2020/2021,Quebec,Canadian undergraduate,4151.0
+2021/2022,Quebec,Canadian undergraduate,4291.0
+2022/2023,Quebec,Canadian undergraduate,4364.0
+2023/2024,Quebec,Canadian undergraduate,4499.0
+2019/2020,Quebec,Canadian graduate,4117.0
+2020/2021,Quebec,Canadian graduate,4220.0
+2021/2022,Quebec,Canadian graduate,4455.0
+2022/2023,Quebec,Canadian graduate,4466.0
+2023/2024,Quebec,Canadian graduate,4600.0
+2019/2020,Ontario,Canadian undergraduate,8853.0
+2020/2021,Ontario,Canadian undergraduate,8891.0
+2021/2022,Ontario,Canadian undergraduate,8887.0
+2022/2023,Ontario,Canadian undergraduate,9104.0
+2023/2024,Ontario,Canadian undergraduate,9370.0
+2019/2020,Ontario,Canadian graduate,10497.0
+2020/2021,Ontario,Canadian graduate,10682.0
+2021/2022,Ontario,Canadian graduate,10359.0
+2022/2023,Ontario,Canadian graduate,10397.0
+2023/2024,Ontario,Canadian graduate,10617.0
+2019/2020,Manitoba,Canadian undergraduate,5598.0
+2020/2021,Manitoba,Canadian undergraduate,5885.0
+2021/2022,Manitoba,Canadian undergraduate,5992.0
+2022/2023,Manitoba,Canadian undergraduate,6200.0
+2023/2024,Manitoba,Canadian undergraduate,6366.0
+2019/2020,Manitoba,Canadian graduate,5745.0
+2020/2021,Manitoba,Canadian graduate,5933.0
+2021/2022,Manitoba,Canadian graduate,6089.0
+2022/2023,Manitoba,Canadian graduate,6328.0
+2023/2024,Manitoba,Canadian graduate,6517.0
+2019/2020,Saskatchewan,Canadian undergraduate,8268.0
+2020/2021,Saskatchewan,Canadian undergraduate,8566.0
+2021/2022,Saskatchewan,Canadian undergraduate,8968.0
+2022/2023,Saskatchewan,Canadian undergraduate,9390.0
+2023/2024,Saskatchewan,Canadian undergraduate,9794.0
+2019/2020,Saskatchewan,Canadian graduate,4723.0
+2020/2021,Saskatchewan,Canadian graduate,4620.0
+2021/2022,Saskatchewan,Canadian graduate,5127.0
+2022/2023,Saskatchewan,Canadian graduate,5498.0
+2023/2024,Saskatchewan,Canadian graduate,5746.0
+2019/2020,Alberta,Canadian undergraduate,6802.0
+2020/2021,Alberta,Canadian undergraduate,7239.0
+2021/2022,Alberta,Canadian undergraduate,7816.0
+2022/2023,Alberta,Canadian undergraduate,8490.0
+2023/2024,Alberta,Canadian undergraduate,8938.0
+2019/2020,Alberta,Canadian graduate,7808.0
+2020/2021,Alberta,Canadian graduate,7769.0
+2021/2022,Alberta,Canadian graduate,7912.0
+2022/2023,Alberta,Canadian graduate,8673.0
+2023/2024,Alberta,Canadian graduate,9063.0
+2019/2020,British Columbia,Canadian undergraduate,6696.0
+2020/2021,British Columbia,Canadian undergraduate,6742.0
+2021/2022,British Columbia,Canadian undergraduate,6920.0
+2022/2023,British Columbia,Canadian undergraduate,7065.0
+2023/2024,British Columbia,Canadian undergraduate,7214.0
+2019/2020,British Columbia,Canadian graduate,9780.0
+2020/2021,British Columbia,Canadian graduate,10277.0
+2021/2022,British Columbia,Canadian graduate,10572.0
+2022/2023,British Columbia,Canadian graduate,11302.0
+2023/2024,British Columbia,Canadian graduate,11548.0
+2019/2020,Yukon,Canadian undergraduate,4210.0
+2020/2021,Yukon,Canadian undergraduate,4312.0
+2021/2022,Yukon,Canadian undergraduate,4387.0
+2022/2023,Yukon,Canadian undergraduate,4590.0
+2023/2024,Yukon,Canadian undergraduate,4669.0

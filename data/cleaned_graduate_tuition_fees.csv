@@ -1,0 +1,944 @@
+REF_DATE,GEO,Field of study,VALUE
+2019/2020,Canada,"Total, field of study",7186.0
+2020/2021,Canada,"Total, field of study",7361.0
+2021/2022,Canada,"Total, field of study",7315.0
+2022/2023,Canada,"Total, field of study",7409.0
+2023/2024,Canada,"Total, field of study",7573.0
+2019/2020,Canada,Education,6423.0
+2020/2021,Canada,Education,6523.0
+2021/2022,Canada,Education,6640.0
+2022/2023,Canada,Education,6844.0
+2023/2024,Canada,Education,6957.0
+2019/2020,Canada,"Visual and performing arts, and communications technologies",5263.0
+2020/2021,Canada,"Visual and performing arts, and communications technologies",5506.0
+2021/2022,Canada,"Visual and performing arts, and communications technologies",5588.0
+2022/2023,Canada,"Visual and performing arts, and communications technologies",5683.0
+2023/2024,Canada,"Visual and performing arts, and communications technologies",5783.0
+2019/2020,Canada,Humanities,4881.0
+2020/2021,Canada,Humanities,4678.0
+2021/2022,Canada,Humanities,4817.0
+2022/2023,Canada,Humanities,4899.0
+2023/2024,Canada,Humanities,4994.0
+2019/2020,Canada,"Social and behavioural sciences, and legal studies ",5801.0
+2020/2021,Canada,"Social and behavioural sciences, and legal studies ",6008.0
+2021/2022,Canada,"Social and behavioural sciences, and legal studies ",6006.0
+2022/2023,Canada,"Social and behavioural sciences, and legal studies ",6135.0
+2023/2024,Canada,"Social and behavioural sciences, and legal studies ",6277.0
+2019/2020,Canada,Law,6036.0
+2020/2021,Canada,Law,6087.0
+2021/2022,Canada,Law,6499.0
+2022/2023,Canada,Law,6129.0
+2023/2024,Canada,Law,6227.0
+2019/2020,Canada,"Business, management and public administration",13145.0
+2020/2021,Canada,"Business, management and public administration",14052.0
+2021/2022,Canada,"Business, management and public administration",14630.0
+2022/2023,Canada,"Business, management and public administration",13903.0
+2023/2024,Canada,"Business, management and public administration",14293.0
+2019/2020,Canada,Executive MBA,50459.0
+2020/2021,Canada,Executive MBA,51005.0
+2021/2022,Canada,Executive MBA,52101.0
+2022/2023,Canada,Executive MBA,44815.0
+2023/2024,Canada,Executive MBA,45596.0
+2019/2020,Canada,Regular MBA,29028.0
+2020/2021,Canada,Regular MBA,29065.0
+2021/2022,Canada,Regular MBA,29544.0
+2022/2023,Canada,Regular MBA,30070.0
+2023/2024,Canada,Regular MBA,31028.0
+2019/2020,Canada,Physical and life sciences and technologies,6741.0
+2020/2021,Canada,Physical and life sciences and technologies,6740.0
+2021/2022,Canada,Physical and life sciences and technologies,6828.0
+2022/2023,Canada,Physical and life sciences and technologies,6936.0
+2023/2024,Canada,Physical and life sciences and technologies,7052.0
+2019/2020,Canada,"Mathematics, computer and information sciences",8395.0
+2020/2021,Canada,"Mathematics, computer and information sciences",8562.0
+2021/2022,Canada,"Mathematics, computer and information sciences",8702.0
+2022/2023,Canada,"Mathematics, computer and information sciences",8988.0
+2023/2024,Canada,"Mathematics, computer and information sciences",9169.0
+2019/2020,Canada,Engineering,6990.0
+2020/2021,Canada,Engineering,7037.0
+2021/2022,Canada,Engineering,7243.0
+2022/2023,Canada,Engineering,7519.0
+2023/2024,Canada,Engineering,7696.0
+2019/2020,Canada,Architecture,6742.0
+2020/2021,Canada,Architecture,6349.0
+2021/2022,Canada,Architecture,6533.0
+2022/2023,Canada,Architecture,6676.0
+2023/2024,Canada,Architecture,6886.0
+2019/2020,Canada,"Agriculture, natural resources and conservation",5938.0
+2020/2021,Canada,"Agriculture, natural resources and conservation",5896.0
+2021/2022,Canada,"Agriculture, natural resources and conservation",5892.0
+2022/2023,Canada,"Agriculture, natural resources and conservation",6368.0
+2023/2024,Canada,"Agriculture, natural resources and conservation",6512.0
+2019/2020,Canada,Dentistry,13002.0
+2020/2021,Canada,Dentistry,12995.0
+2021/2022,Canada,Dentistry,13112.0
+2022/2023,Canada,Dentistry,13171.0
+2023/2024,Canada,Dentistry,13282.0
+2019/2020,Canada,Nursing,6328.0
+2020/2021,Canada,Nursing,6532.0
+2021/2022,Canada,Nursing,6777.0
+2022/2023,Canada,Nursing,6807.0
+2023/2024,Canada,Nursing,6973.0
+2019/2020,Canada,Pharmacy,4245.0
+2020/2021,Canada,Pharmacy,4171.0
+2021/2022,Canada,Pharmacy,4340.0
+2022/2023,Canada,Pharmacy,4036.0
+2023/2024,Canada,Pharmacy,4109.0
+2019/2020,Canada,Veterinary medicine,4170.0
+2020/2021,Canada,Veterinary medicine,3948.0
+2021/2022,Canada,Veterinary medicine,3968.0
+2022/2023,Canada,Veterinary medicine,4175.0
+2023/2024,Canada,Veterinary medicine,4236.0
+2019/2020,Canada,Optometry,4508.0
+2020/2021,Canada,Optometry,4508.0
+2021/2022,Canada,Optometry,4508.0
+2022/2023,Canada,Optometry,4508.0
+2023/2024,Canada,Optometry,4508.0
+2019/2020,Canada,"Other health, parks, recreation and fitness",8401.0
+2020/2021,Canada,"Other health, parks, recreation and fitness",8570.0
+2021/2022,Canada,"Other health, parks, recreation and fitness",7043.0
+2022/2023,Canada,"Other health, parks, recreation and fitness",7036.0
+2023/2024,Canada,"Other health, parks, recreation and fitness",7190.0
+2019/2020,Canada,"Personal, protective and transportation services",5513.0
+2020/2021,Canada,"Personal, protective and transportation services",4500.0
+2021/2022,Canada,"Personal, protective and transportation services",5795.0
+2022/2023,Canada,"Personal, protective and transportation services",6591.0
+2023/2024,Canada,"Personal, protective and transportation services",6660.0
+2019/2020,Newfoundland and Labrador,"Total, field of study",2894.0
+2020/2021,Newfoundland and Labrador,"Total, field of study",2825.0
+2021/2022,Newfoundland and Labrador,"Total, field of study",3386.0
+2022/2023,Newfoundland and Labrador,"Total, field of study",3228.0
+2023/2024,Newfoundland and Labrador,"Total, field of study",3228.0
+2019/2020,Newfoundland and Labrador,Education,2391.0
+2020/2021,Newfoundland and Labrador,Education,2404.0
+2021/2022,Newfoundland and Labrador,Education,3161.0
+2022/2023,Newfoundland and Labrador,Education,3692.0
+2023/2024,Newfoundland and Labrador,Education,3692.0
+2019/2020,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",3010.0
+2020/2021,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",3291.0
+2021/2022,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",3513.0
+2022/2023,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",3264.0
+2023/2024,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",3264.0
+2019/2020,Newfoundland and Labrador,Humanities,2702.0
+2020/2021,Newfoundland and Labrador,Humanities,2580.0
+2021/2022,Newfoundland and Labrador,Humanities,3192.0
+2022/2023,Newfoundland and Labrador,Humanities,2586.0
+2023/2024,Newfoundland and Labrador,Humanities,2586.0
+2019/2020,Newfoundland and Labrador,"Social and behavioural sciences, and legal studies ",2733.0
+2020/2021,Newfoundland and Labrador,"Social and behavioural sciences, and legal studies ",2732.0
+2021/2022,Newfoundland and Labrador,"Social and behavioural sciences, and legal studies ",3255.0
+2022/2023,Newfoundland and Labrador,"Social and behavioural sciences, and legal studies ",3808.0
+2023/2024,Newfoundland and Labrador,"Social and behavioural sciences, and legal studies ",3808.0
+2019/2020,Newfoundland and Labrador,"Business, management and public administration",2843.0
+2020/2021,Newfoundland and Labrador,"Business, management and public administration",2796.0
+2021/2022,Newfoundland and Labrador,"Business, management and public administration",3308.0
+2022/2023,Newfoundland and Labrador,"Business, management and public administration",3012.0
+2023/2024,Newfoundland and Labrador,"Business, management and public administration",3012.0
+2019/2020,Newfoundland and Labrador,Regular MBA,2610.0
+2020/2021,Newfoundland and Labrador,Regular MBA,2564.0
+2021/2022,Newfoundland and Labrador,Regular MBA,3022.0
+2022/2023,Newfoundland and Labrador,Regular MBA,1981.0
+2023/2024,Newfoundland and Labrador,Regular MBA,1981.0
+2019/2020,Newfoundland and Labrador,Physical and life sciences and technologies,2630.0
+2020/2021,Newfoundland and Labrador,Physical and life sciences and technologies,2693.0
+2021/2022,Newfoundland and Labrador,Physical and life sciences and technologies,3199.0
+2022/2023,Newfoundland and Labrador,Physical and life sciences and technologies,2675.0
+2023/2024,Newfoundland and Labrador,Physical and life sciences and technologies,2675.0
+2019/2020,Newfoundland and Labrador,"Mathematics, computer and information sciences",2234.0
+2020/2021,Newfoundland and Labrador,"Mathematics, computer and information sciences",2317.0
+2021/2022,Newfoundland and Labrador,"Mathematics, computer and information sciences",3123.0
+2022/2023,Newfoundland and Labrador,"Mathematics, computer and information sciences",3270.0
+2023/2024,Newfoundland and Labrador,"Mathematics, computer and information sciences",3270.0
+2019/2020,Newfoundland and Labrador,Engineering,2253.0
+2020/2021,Newfoundland and Labrador,Engineering,2378.0
+2021/2022,Newfoundland and Labrador,Engineering,3019.0
+2022/2023,Newfoundland and Labrador,Engineering,2230.0
+2023/2024,Newfoundland and Labrador,Engineering,2230.0
+2019/2020,Newfoundland and Labrador,"Agriculture, natural resources and conservation",2698.0
+2020/2021,Newfoundland and Labrador,"Agriculture, natural resources and conservation",2760.0
+2021/2022,Newfoundland and Labrador,"Agriculture, natural resources and conservation",3295.0
+2022/2023,Newfoundland and Labrador,"Agriculture, natural resources and conservation",4105.0
+2023/2024,Newfoundland and Labrador,"Agriculture, natural resources and conservation",4105.0
+2019/2020,Newfoundland and Labrador,Nursing,2191.0
+2020/2021,Newfoundland and Labrador,Nursing,2358.0
+2021/2022,Newfoundland and Labrador,Nursing,2966.0
+2022/2023,Newfoundland and Labrador,Nursing,2360.0
+2023/2024,Newfoundland and Labrador,Nursing,2360.0
+2019/2020,Newfoundland and Labrador,Pharmacy,2260.0
+2020/2021,Newfoundland and Labrador,Pharmacy,2197.0
+2021/2022,Newfoundland and Labrador,Pharmacy,2970.0
+2022/2023,Newfoundland and Labrador,Pharmacy,2141.0
+2023/2024,Newfoundland and Labrador,Pharmacy,2141.0
+2019/2020,Newfoundland and Labrador,"Other health, parks, recreation and fitness",6000.0
+2020/2021,Newfoundland and Labrador,"Other health, parks, recreation and fitness",6000.0
+2021/2022,Newfoundland and Labrador,"Other health, parks, recreation and fitness",6000.0
+2022/2023,Newfoundland and Labrador,"Other health, parks, recreation and fitness",6000.0
+2023/2024,Newfoundland and Labrador,"Other health, parks, recreation and fitness",6000.0
+2019/2020,Prince Edward Island,"Total, field of study",4996.0
+2020/2021,Prince Edward Island,"Total, field of study",5137.0
+2021/2022,Prince Edward Island,"Total, field of study",5273.0
+2022/2023,Prince Edward Island,"Total, field of study",5582.0
+2023/2024,Prince Edward Island,"Total, field of study",5805.0
+2019/2020,Prince Edward Island,Education,5384.0
+2020/2021,Prince Edward Island,Education,5485.0
+2021/2022,Prince Edward Island,Education,5535.0
+2022/2023,Prince Edward Island,Education,5637.0
+2023/2024,Prince Edward Island,Education,5862.0
+2020/2021,Prince Edward Island,"Social and behavioural sciences, and legal studies ",7192.0
+2021/2022,Prince Edward Island,"Social and behavioural sciences, and legal studies ",7264.0
+2022/2023,Prince Edward Island,"Social and behavioural sciences, and legal studies ",7408.0
+2023/2024,Prince Edward Island,"Social and behavioural sciences, and legal studies ",7706.0
+2019/2020,Prince Edward Island,Executive MBA,18382.0
+2020/2021,Prince Edward Island,Executive MBA,18753.0
+2021/2022,Prince Edward Island,Executive MBA,18942.0
+2022/2023,Prince Edward Island,Executive MBA,19320.0
+2023/2024,Prince Edward Island,Executive MBA,20090.0
+2019/2020,Prince Edward Island,Regular MBA,20006.0
+2020/2021,Prince Edward Island,Regular MBA,20412.0
+2021/2022,Prince Edward Island,Regular MBA,20622.0
+2022/2023,Prince Edward Island,Regular MBA,21028.0
+2023/2024,Prince Edward Island,Regular MBA,21868.0
+2019/2020,Prince Edward Island,Physical and life sciences and technologies,4215.0
+2020/2021,Prince Edward Island,Physical and life sciences and technologies,4300.0
+2021/2022,Prince Edward Island,Physical and life sciences and technologies,4344.0
+2022/2023,Prince Edward Island,Physical and life sciences and technologies,4431.0
+2023/2024,Prince Edward Island,Physical and life sciences and technologies,4610.0
+2019/2020,Prince Edward Island,Engineering,4215.0
+2020/2021,Prince Edward Island,Engineering,4300.0
+2021/2022,Prince Edward Island,Engineering,4344.0
+2022/2023,Prince Edward Island,Engineering,4431.0
+2023/2024,Prince Edward Island,Engineering,4610.0
+2019/2020,Prince Edward Island,"Agriculture, natural resources and conservation",4215.0
+2020/2021,Prince Edward Island,"Agriculture, natural resources and conservation",4300.0
+2021/2022,Prince Edward Island,"Agriculture, natural resources and conservation",4344.0
+2022/2023,Prince Edward Island,"Agriculture, natural resources and conservation",4431.0
+2023/2024,Prince Edward Island,"Agriculture, natural resources and conservation",4610.0
+2019/2020,Prince Edward Island,Nursing,4215.0
+2020/2021,Prince Edward Island,Nursing,4300.0
+2021/2022,Prince Edward Island,Nursing,4344.0
+2022/2023,Prince Edward Island,Nursing,4431.0
+2023/2024,Prince Edward Island,Nursing,4610.0
+2019/2020,Prince Edward Island,Veterinary medicine,4215.0
+2020/2021,Prince Edward Island,Veterinary medicine,4300.0
+2021/2022,Prince Edward Island,Veterinary medicine,4344.0
+2022/2023,Prince Edward Island,Veterinary medicine,4431.0
+2023/2024,Prince Edward Island,Veterinary medicine,4610.0
+2019/2020,Prince Edward Island,"Other health, parks, recreation and fitness",6558.0
+2020/2021,Prince Edward Island,"Other health, parks, recreation and fitness",6690.0
+2021/2022,Prince Edward Island,"Other health, parks, recreation and fitness",6759.0
+2022/2023,Prince Edward Island,"Other health, parks, recreation and fitness",6894.0
+2023/2024,Prince Edward Island,"Other health, parks, recreation and fitness",7170.0
+2019/2020,Nova Scotia,"Total, field of study",9500.0
+2020/2021,Nova Scotia,"Total, field of study",9854.0
+2021/2022,Nova Scotia,"Total, field of study",10277.0
+2022/2023,Nova Scotia,"Total, field of study",10240.0
+2023/2024,Nova Scotia,"Total, field of study",10548.0
+2019/2020,Nova Scotia,Education,6228.0
+2020/2021,Nova Scotia,Education,6415.0
+2021/2022,Nova Scotia,Education,7365.0
+2022/2023,Nova Scotia,Education,7388.0
+2023/2024,Nova Scotia,Education,7627.0
+2019/2020,Nova Scotia,"Visual and performing arts, and communications technologies",8725.0
+2020/2021,Nova Scotia,"Visual and performing arts, and communications technologies",8688.0
+2021/2022,Nova Scotia,"Visual and performing arts, and communications technologies",8767.0
+2022/2023,Nova Scotia,"Visual and performing arts, and communications technologies",9026.0
+2023/2024,Nova Scotia,"Visual and performing arts, and communications technologies",9306.0
+2019/2020,Nova Scotia,Humanities,7741.0
+2020/2021,Nova Scotia,Humanities,7932.0
+2021/2022,Nova Scotia,Humanities,8269.0
+2022/2023,Nova Scotia,Humanities,8567.0
+2023/2024,Nova Scotia,Humanities,8862.0
+2019/2020,Nova Scotia,"Social and behavioural sciences, and legal studies ",7058.0
+2020/2021,Nova Scotia,"Social and behavioural sciences, and legal studies ",7215.0
+2021/2022,Nova Scotia,"Social and behavioural sciences, and legal studies ",7444.0
+2022/2023,Nova Scotia,"Social and behavioural sciences, and legal studies ",7232.0
+2023/2024,Nova Scotia,"Social and behavioural sciences, and legal studies ",7448.0
+2019/2020,Nova Scotia,Law,7803.0
+2020/2021,Nova Scotia,Law,8224.0
+2021/2022,Nova Scotia,Law,8151.0
+2022/2023,Nova Scotia,Law,8344.0
+2023/2024,Nova Scotia,Law,8617.0
+2019/2020,Nova Scotia,"Business, management and public administration",12122.0
+2020/2021,Nova Scotia,"Business, management and public administration",12165.0
+2021/2022,Nova Scotia,"Business, management and public administration",13145.0
+2022/2023,Nova Scotia,"Business, management and public administration",12070.0
+2023/2024,Nova Scotia,"Business, management and public administration",12249.0
+2019/2020,Nova Scotia,Executive MBA,24931.0
+2020/2021,Nova Scotia,Executive MBA,25112.0
+2022/2023,Nova Scotia,Executive MBA,24792.0
+2023/2024,Nova Scotia,Executive MBA,28042.0
+2019/2020,Nova Scotia,Regular MBA,17452.0
+2020/2021,Nova Scotia,Regular MBA,17531.0
+2021/2022,Nova Scotia,Regular MBA,18468.0
+2022/2023,Nova Scotia,Regular MBA,22862.0
+2023/2024,Nova Scotia,Regular MBA,23640.0
+2019/2020,Nova Scotia,Physical and life sciences and technologies,8174.0
+2020/2021,Nova Scotia,Physical and life sciences and technologies,8394.0
+2021/2022,Nova Scotia,Physical and life sciences and technologies,8759.0
+2022/2023,Nova Scotia,Physical and life sciences and technologies,8949.0
+2023/2024,Nova Scotia,Physical and life sciences and technologies,9214.0
+2019/2020,Nova Scotia,"Mathematics, computer and information sciences",8800.0
+2020/2021,Nova Scotia,"Mathematics, computer and information sciences",8992.0
+2021/2022,Nova Scotia,"Mathematics, computer and information sciences",9263.0
+2022/2023,Nova Scotia,"Mathematics, computer and information sciences",9569.0
+2023/2024,Nova Scotia,"Mathematics, computer and information sciences",9875.0
+2019/2020,Nova Scotia,Engineering,8567.0
+2020/2021,Nova Scotia,Engineering,8870.0
+2021/2022,Nova Scotia,Engineering,9186.0
+2022/2023,Nova Scotia,Engineering,9500.0
+2023/2024,Nova Scotia,Engineering,9810.0
+2019/2020,Nova Scotia,Architecture,9130.0
+2020/2021,Nova Scotia,Architecture,9474.0
+2021/2022,Nova Scotia,Architecture,9784.0
+2022/2023,Nova Scotia,Architecture,10025.0
+2023/2024,Nova Scotia,Architecture,10335.0
+2019/2020,Nova Scotia,"Agriculture, natural resources and conservation",8966.0
+2020/2021,Nova Scotia,"Agriculture, natural resources and conservation",9301.0
+2021/2022,Nova Scotia,"Agriculture, natural resources and conservation",9558.0
+2022/2023,Nova Scotia,"Agriculture, natural resources and conservation",9813.0
+2023/2024,Nova Scotia,"Agriculture, natural resources and conservation",10123.0
+2019/2020,Nova Scotia,Dentistry,21103.0
+2020/2021,Nova Scotia,Dentistry,21965.0
+2021/2022,Nova Scotia,Dentistry,22844.0
+2022/2023,Nova Scotia,Dentistry,23529.0
+2023/2024,Nova Scotia,Dentistry,24235.0
+2019/2020,Nova Scotia,Nursing,9672.0
+2020/2021,Nova Scotia,Nursing,9763.0
+2021/2022,Nova Scotia,Nursing,9890.0
+2022/2023,Nova Scotia,Nursing,10172.0
+2023/2024,Nova Scotia,Nursing,10508.0
+2019/2020,Nova Scotia,Pharmacy,11034.0
+2020/2021,Nova Scotia,Pharmacy,10963.0
+2021/2022,Nova Scotia,Pharmacy,11329.0
+2019/2020,Nova Scotia,"Other health, parks, recreation and fitness",13161.0
+2020/2021,Nova Scotia,"Other health, parks, recreation and fitness",13656.0
+2021/2022,Nova Scotia,"Other health, parks, recreation and fitness",14061.0
+2022/2023,Nova Scotia,"Other health, parks, recreation and fitness",14416.0
+2023/2024,Nova Scotia,"Other health, parks, recreation and fitness",14864.0
+2019/2020,New Brunswick,"Total, field of study",6424.0
+2020/2021,New Brunswick,"Total, field of study",6678.0
+2021/2022,New Brunswick,"Total, field of study",7020.0
+2022/2023,New Brunswick,"Total, field of study",7186.0
+2023/2024,New Brunswick,"Total, field of study",7446.0
+2019/2020,New Brunswick,Education,6406.0
+2020/2021,New Brunswick,Education,6621.0
+2021/2022,New Brunswick,Education,6984.0
+2022/2023,New Brunswick,Education,7227.0
+2023/2024,New Brunswick,Education,7483.0
+2019/2020,New Brunswick,Humanities,6423.0
+2020/2021,New Brunswick,Humanities,6780.0
+2021/2022,New Brunswick,Humanities,7035.0
+2022/2023,New Brunswick,Humanities,7326.0
+2023/2024,New Brunswick,Humanities,7593.0
+2019/2020,New Brunswick,"Social and behavioural sciences, and legal studies ",6505.0
+2020/2021,New Brunswick,"Social and behavioural sciences, and legal studies ",6730.0
+2021/2022,New Brunswick,"Social and behavioural sciences, and legal studies ",7092.0
+2022/2023,New Brunswick,"Social and behavioural sciences, and legal studies ",7274.0
+2023/2024,New Brunswick,"Social and behavioural sciences, and legal studies ",7514.0
+2019/2020,New Brunswick,Law,4269.0
+2020/2021,New Brunswick,Law,4614.0
+2021/2022,New Brunswick,Law,4986.0
+2022/2023,New Brunswick,Law,5082.0
+2023/2024,New Brunswick,Law,5178.0
+2019/2020,New Brunswick,"Business, management and public administration",5122.0
+2020/2021,New Brunswick,"Business, management and public administration",6245.0
+2021/2022,New Brunswick,"Business, management and public administration",7319.0
+2022/2023,New Brunswick,"Business, management and public administration",6229.0
+2023/2024,New Brunswick,"Business, management and public administration",6374.0
+2019/2020,New Brunswick,Regular MBA,6825.0
+2020/2021,New Brunswick,Regular MBA,7072.0
+2021/2022,New Brunswick,Regular MBA,7398.0
+2022/2023,New Brunswick,Regular MBA,9882.0
+2023/2024,New Brunswick,Regular MBA,10271.0
+2019/2020,New Brunswick,Physical and life sciences and technologies,6263.0
+2020/2021,New Brunswick,Physical and life sciences and technologies,6520.0
+2021/2022,New Brunswick,Physical and life sciences and technologies,6802.0
+2022/2023,New Brunswick,Physical and life sciences and technologies,7137.0
+2023/2024,New Brunswick,Physical and life sciences and technologies,7382.0
+2019/2020,New Brunswick,"Mathematics, computer and information sciences",6541.0
+2020/2021,New Brunswick,"Mathematics, computer and information sciences",6775.0
+2021/2022,New Brunswick,"Mathematics, computer and information sciences",7080.0
+2022/2023,New Brunswick,"Mathematics, computer and information sciences",7401.0
+2023/2024,New Brunswick,"Mathematics, computer and information sciences",7718.0
+2019/2020,New Brunswick,Engineering,6975.0
+2020/2021,New Brunswick,Engineering,7113.0
+2021/2022,New Brunswick,Engineering,7326.0
+2022/2023,New Brunswick,Engineering,7656.0
+2023/2024,New Brunswick,Engineering,8001.0
+2019/2020,New Brunswick,"Agriculture, natural resources and conservation",6521.0
+2020/2021,New Brunswick,"Agriculture, natural resources and conservation",6808.0
+2021/2022,New Brunswick,"Agriculture, natural resources and conservation",7013.0
+2022/2023,New Brunswick,"Agriculture, natural resources and conservation",7293.0
+2023/2024,New Brunswick,"Agriculture, natural resources and conservation",7591.0
+2019/2020,New Brunswick,Nursing,5915.0
+2020/2021,New Brunswick,Nursing,6259.0
+2021/2022,New Brunswick,Nursing,6757.0
+2022/2023,New Brunswick,Nursing,7008.0
+2023/2024,New Brunswick,Nursing,7269.0
+2019/2020,New Brunswick,"Other health, parks, recreation and fitness",6975.0
+2020/2021,New Brunswick,"Other health, parks, recreation and fitness",6835.0
+2021/2022,New Brunswick,"Other health, parks, recreation and fitness",7066.0
+2022/2023,New Brunswick,"Other health, parks, recreation and fitness",7163.0
+2023/2024,New Brunswick,"Other health, parks, recreation and fitness",7447.0
+2019/2020,Quebec,"Total, field of study",3254.0
+2020/2021,Quebec,"Total, field of study",3314.0
+2021/2022,Quebec,"Total, field of study",3490.0
+2022/2023,Quebec,"Total, field of study",3528.0
+2023/2024,Quebec,"Total, field of study",3633.0
+2019/2020,Quebec,Education,3005.0
+2020/2021,Quebec,Education,3185.0
+2021/2022,Quebec,Education,3294.0
+2022/2023,Quebec,Education,3273.0
+2023/2024,Quebec,Education,3371.0
+2019/2020,Quebec,"Visual and performing arts, and communications technologies",3486.0
+2020/2021,Quebec,"Visual and performing arts, and communications technologies",3616.0
+2021/2022,Quebec,"Visual and performing arts, and communications technologies",3674.0
+2022/2023,Quebec,"Visual and performing arts, and communications technologies",3714.0
+2023/2024,Quebec,"Visual and performing arts, and communications technologies",3826.0
+2019/2020,Quebec,Humanities,3713.0
+2020/2021,Quebec,Humanities,3112.0
+2021/2022,Quebec,Humanities,3246.0
+2022/2023,Quebec,Humanities,3311.0
+2023/2024,Quebec,Humanities,3411.0
+2019/2020,Quebec,"Social and behavioural sciences, and legal studies ",2953.0
+2020/2021,Quebec,"Social and behavioural sciences, and legal studies ",3066.0
+2021/2022,Quebec,"Social and behavioural sciences, and legal studies ",3175.0
+2022/2023,Quebec,"Social and behavioural sciences, and legal studies ",3237.0
+2023/2024,Quebec,"Social and behavioural sciences, and legal studies ",3334.0
+2019/2020,Quebec,Law,2781.0
+2020/2021,Quebec,Law,2898.0
+2021/2022,Quebec,Law,3020.0
+2022/2023,Quebec,Law,3085.0
+2023/2024,Quebec,Law,3177.0
+2019/2020,Quebec,"Business, management and public administration",3226.0
+2020/2021,Quebec,"Business, management and public administration",3327.0
+2021/2022,Quebec,"Business, management and public administration",3826.0
+2022/2023,Quebec,"Business, management and public administration",3717.0
+2023/2024,Quebec,"Business, management and public administration",3829.0
+2019/2020,Quebec,Executive MBA,13715.0
+2020/2021,Quebec,Executive MBA,13679.0
+2021/2022,Quebec,Executive MBA,13802.0
+2022/2023,Quebec,Executive MBA,9314.0
+2023/2024,Quebec,Executive MBA,9382.0
+2019/2020,Quebec,Regular MBA,5368.0
+2020/2021,Quebec,Regular MBA,5195.0
+2021/2022,Quebec,Regular MBA,5715.0
+2022/2023,Quebec,Regular MBA,4736.0
+2023/2024,Quebec,Regular MBA,4829.0
+2019/2020,Quebec,Physical and life sciences and technologies,3683.0
+2020/2021,Quebec,Physical and life sciences and technologies,3889.0
+2021/2022,Quebec,Physical and life sciences and technologies,4026.0
+2022/2023,Quebec,Physical and life sciences and technologies,4095.0
+2023/2024,Quebec,Physical and life sciences and technologies,4218.0
+2019/2020,Quebec,"Mathematics, computer and information sciences",3244.0
+2020/2021,Quebec,"Mathematics, computer and information sciences",3353.0
+2021/2022,Quebec,"Mathematics, computer and information sciences",3574.0
+2022/2023,Quebec,"Mathematics, computer and information sciences",3602.0
+2023/2024,Quebec,"Mathematics, computer and information sciences",3710.0
+2019/2020,Quebec,Engineering,3231.0
+2020/2021,Quebec,Engineering,3366.0
+2021/2022,Quebec,Engineering,3529.0
+2022/2023,Quebec,Engineering,3638.0
+2023/2024,Quebec,Engineering,3747.0
+2019/2020,Quebec,Architecture,3188.0
+2020/2021,Quebec,Architecture,3220.0
+2021/2022,Quebec,Architecture,3375.0
+2022/2023,Quebec,Architecture,3424.0
+2023/2024,Quebec,Architecture,3527.0
+2019/2020,Quebec,"Agriculture, natural resources and conservation",3120.0
+2020/2021,Quebec,"Agriculture, natural resources and conservation",3159.0
+2021/2022,Quebec,"Agriculture, natural resources and conservation",3321.0
+2022/2023,Quebec,"Agriculture, natural resources and conservation",3463.0
+2023/2024,Quebec,"Agriculture, natural resources and conservation",3567.0
+2019/2020,Quebec,Dentistry,3781.0
+2020/2021,Quebec,Dentistry,3958.0
+2021/2022,Quebec,Dentistry,3689.0
+2022/2023,Quebec,Dentistry,4087.0
+2023/2024,Quebec,Dentistry,4209.0
+2019/2020,Quebec,Nursing,2986.0
+2020/2021,Quebec,Nursing,2921.0
+2021/2022,Quebec,Nursing,3037.0
+2022/2023,Quebec,Nursing,3077.0
+2023/2024,Quebec,Nursing,3169.0
+2019/2020,Quebec,Pharmacy,2705.0
+2020/2021,Quebec,Pharmacy,2777.0
+2021/2022,Quebec,Pharmacy,2813.0
+2022/2023,Quebec,Pharmacy,2955.0
+2023/2024,Quebec,Pharmacy,3043.0
+2019/2020,Quebec,Veterinary medicine,2628.0
+2020/2021,Quebec,Veterinary medicine,2623.0
+2021/2022,Quebec,Veterinary medicine,2811.0
+2022/2023,Quebec,Veterinary medicine,3157.0
+2023/2024,Quebec,Veterinary medicine,3251.0
+2019/2020,Quebec,"Other health, parks, recreation and fitness",3274.0
+2020/2021,Quebec,"Other health, parks, recreation and fitness",3455.0
+2021/2022,Quebec,"Other health, parks, recreation and fitness",3660.0
+2022/2023,Quebec,"Other health, parks, recreation and fitness",3637.0
+2023/2024,Quebec,"Other health, parks, recreation and fitness",3747.0
+2019/2020,Ontario,"Total, field of study",9601.0
+2020/2021,Ontario,"Total, field of study",9739.0
+2021/2022,Ontario,"Total, field of study",9327.0
+2022/2023,Ontario,"Total, field of study",9304.0
+2023/2024,Ontario,"Total, field of study",9445.0
+2019/2020,Ontario,Education,8045.0
+2020/2021,Ontario,Education,8020.0
+2021/2022,Ontario,Education,8005.0
+2022/2023,Ontario,Education,8053.0
+2023/2024,Ontario,Education,8108.0
+2019/2020,Ontario,"Visual and performing arts, and communications technologies",7118.0
+2020/2021,Ontario,"Visual and performing arts, and communications technologies",7442.0
+2021/2022,Ontario,"Visual and performing arts, and communications technologies",7565.0
+2022/2023,Ontario,"Visual and performing arts, and communications technologies",7571.0
+2023/2024,Ontario,"Visual and performing arts, and communications technologies",7642.0
+2019/2020,Ontario,Humanities,5711.0
+2020/2021,Ontario,Humanities,5703.0
+2021/2022,Ontario,Humanities,5719.0
+2022/2023,Ontario,Humanities,5724.0
+2023/2024,Ontario,Humanities,5779.0
+2019/2020,Ontario,"Social and behavioural sciences, and legal studies ",7586.0
+2020/2021,Ontario,"Social and behavioural sciences, and legal studies ",7773.0
+2021/2022,Ontario,"Social and behavioural sciences, and legal studies ",7785.0
+2022/2023,Ontario,"Social and behavioural sciences, and legal studies ",7783.0
+2023/2024,Ontario,"Social and behavioural sciences, and legal studies ",7919.0
+2019/2020,Ontario,Law,10131.0
+2020/2021,Ontario,Law,10087.0
+2021/2022,Ontario,Law,10250.0
+2022/2023,Ontario,Law,9509.0
+2023/2024,Ontario,Law,9563.0
+2019/2020,Ontario,"Business, management and public administration",20317.0
+2020/2021,Ontario,"Business, management and public administration",20925.0
+2021/2022,Ontario,"Business, management and public administration",21279.0
+2022/2023,Ontario,"Business, management and public administration",19895.0
+2023/2024,Ontario,"Business, management and public administration",20440.0
+2019/2020,Ontario,Executive MBA,92310.0
+2020/2021,Ontario,Executive MBA,93461.0
+2021/2022,Ontario,Executive MBA,93760.0
+2022/2023,Ontario,Executive MBA,88886.0
+2023/2024,Ontario,Executive MBA,89923.0
+2019/2020,Ontario,Regular MBA,42389.0
+2020/2021,Ontario,Regular MBA,42707.0
+2021/2022,Ontario,Regular MBA,43654.0
+2022/2023,Ontario,Regular MBA,42747.0
+2023/2024,Ontario,Regular MBA,43200.0
+2019/2020,Ontario,Physical and life sciences and technologies,7976.0
+2020/2021,Ontario,Physical and life sciences and technologies,7965.0
+2021/2022,Ontario,Physical and life sciences and technologies,7990.0
+2022/2023,Ontario,Physical and life sciences and technologies,8046.0
+2023/2024,Ontario,Physical and life sciences and technologies,8100.0
+2019/2020,Ontario,"Mathematics, computer and information sciences",10986.0
+2020/2021,Ontario,"Mathematics, computer and information sciences",11000.0
+2021/2022,Ontario,"Mathematics, computer and information sciences",11006.0
+2022/2023,Ontario,"Mathematics, computer and information sciences",11364.0
+2023/2024,Ontario,"Mathematics, computer and information sciences",11453.0
+2019/2020,Ontario,Engineering,8656.0
+2020/2021,Ontario,Engineering,8572.0
+2021/2022,Ontario,Engineering,8497.0
+2022/2023,Ontario,Engineering,8601.0
+2023/2024,Ontario,Engineering,8745.0
+2019/2020,Ontario,Architecture,7531.0
+2020/2021,Ontario,Architecture,7386.0
+2021/2022,Ontario,Architecture,7356.0
+2022/2023,Ontario,Architecture,7445.0
+2023/2024,Ontario,Architecture,7541.0
+2019/2020,Ontario,"Agriculture, natural resources and conservation",5679.0
+2020/2021,Ontario,"Agriculture, natural resources and conservation",5612.0
+2021/2022,Ontario,"Agriculture, natural resources and conservation",5726.0
+2022/2023,Ontario,"Agriculture, natural resources and conservation",6793.0
+2023/2024,Ontario,"Agriculture, natural resources and conservation",6871.0
+2019/2020,Ontario,Dentistry,18925.0
+2020/2021,Ontario,Dentistry,18947.0
+2021/2022,Ontario,Dentistry,18887.0
+2022/2023,Ontario,Dentistry,18762.0
+2023/2024,Ontario,Dentistry,18762.0
+2019/2020,Ontario,Nursing,7990.0
+2020/2021,Ontario,Nursing,8461.0
+2021/2022,Ontario,Nursing,8558.0
+2022/2023,Ontario,Nursing,8244.0
+2023/2024,Ontario,Nursing,8320.0
+2019/2020,Ontario,Pharmacy,8322.0
+2020/2021,Ontario,Pharmacy,8134.0
+2021/2022,Ontario,Pharmacy,8678.0
+2022/2023,Ontario,Pharmacy,8657.0
+2023/2024,Ontario,Pharmacy,8710.0
+2019/2020,Ontario,Veterinary medicine,4790.0
+2020/2021,Ontario,Veterinary medicine,4790.0
+2021/2022,Ontario,Veterinary medicine,4790.0
+2022/2023,Ontario,Veterinary medicine,4993.0
+2023/2024,Ontario,Veterinary medicine,4993.0
+2019/2020,Ontario,Optometry,4508.0
+2020/2021,Ontario,Optometry,4508.0
+2021/2022,Ontario,Optometry,4508.0
+2022/2023,Ontario,Optometry,4508.0
+2023/2024,Ontario,Optometry,4508.0
+2019/2020,Ontario,"Other health, parks, recreation and fitness",12142.0
+2020/2021,Ontario,"Other health, parks, recreation and fitness",12099.0
+2021/2022,Ontario,"Other health, parks, recreation and fitness",8630.0
+2022/2023,Ontario,"Other health, parks, recreation and fitness",8653.0
+2023/2024,Ontario,"Other health, parks, recreation and fitness",8769.0
+2019/2020,Ontario,"Personal, protective and transportation services",4721.0
+2020/2021,Ontario,"Personal, protective and transportation services",3864.0
+2021/2022,Ontario,"Personal, protective and transportation services",4606.0
+2022/2023,Ontario,"Personal, protective and transportation services",5037.0
+2023/2024,Ontario,"Personal, protective and transportation services",5047.0
+2019/2020,Manitoba,"Total, field of study",5069.0
+2020/2021,Manitoba,"Total, field of study",5220.0
+2021/2022,Manitoba,"Total, field of study",5373.0
+2022/2023,Manitoba,"Total, field of study",5587.0
+2023/2024,Manitoba,"Total, field of study",5742.0
+2019/2020,Manitoba,Education,3846.0
+2020/2021,Manitoba,Education,3942.0
+2021/2022,Manitoba,Education,3918.0
+2022/2023,Manitoba,Education,4165.0
+2023/2024,Manitoba,Education,4279.0
+2019/2020,Manitoba,"Visual and performing arts, and communications technologies",4919.0
+2020/2021,Manitoba,"Visual and performing arts, and communications technologies",5181.0
+2021/2022,Manitoba,"Visual and performing arts, and communications technologies",5512.0
+2022/2023,Manitoba,"Visual and performing arts, and communications technologies",5519.0
+2023/2024,Manitoba,"Visual and performing arts, and communications technologies",5670.0
+2019/2020,Manitoba,Humanities,5288.0
+2020/2021,Manitoba,Humanities,5478.0
+2021/2022,Manitoba,Humanities,5718.0
+2022/2023,Manitoba,Humanities,5878.0
+2023/2024,Manitoba,Humanities,6040.0
+2019/2020,Manitoba,"Social and behavioural sciences, and legal studies ",5800.0
+2020/2021,Manitoba,"Social and behavioural sciences, and legal studies ",5789.0
+2021/2022,Manitoba,"Social and behavioural sciences, and legal studies ",5882.0
+2022/2023,Manitoba,"Social and behavioural sciences, and legal studies ",6141.0
+2023/2024,Manitoba,"Social and behavioural sciences, and legal studies ",6310.0
+2019/2020,Manitoba,Law,5148.0
+2020/2021,Manitoba,Law,5341.0
+2021/2022,Manitoba,Law,5541.0
+2022/2023,Manitoba,Law,5749.0
+2023/2024,Manitoba,Law,5907.0
+2019/2020,Manitoba,"Business, management and public administration",3860.0
+2020/2021,Manitoba,"Business, management and public administration",4005.0
+2021/2022,Manitoba,"Business, management and public administration",4155.0
+2022/2023,Manitoba,"Business, management and public administration",4577.0
+2023/2024,Manitoba,"Business, management and public administration",4724.0
+2019/2020,Manitoba,Regular MBA,33562.0
+2020/2021,Manitoba,Regular MBA,33562.0
+2021/2022,Manitoba,Regular MBA,33562.0
+2022/2023,Manitoba,Regular MBA,33562.0
+2023/2024,Manitoba,Regular MBA,34484.0
+2019/2020,Manitoba,Physical and life sciences and technologies,5261.0
+2020/2021,Manitoba,Physical and life sciences and technologies,5393.0
+2021/2022,Manitoba,Physical and life sciences and technologies,5562.0
+2022/2023,Manitoba,Physical and life sciences and technologies,5784.0
+2023/2024,Manitoba,Physical and life sciences and technologies,5943.0
+2019/2020,Manitoba,"Mathematics, computer and information sciences",5469.0
+2020/2021,Manitoba,"Mathematics, computer and information sciences",5591.0
+2021/2022,Manitoba,"Mathematics, computer and information sciences",5650.0
+2022/2023,Manitoba,"Mathematics, computer and information sciences",5862.0
+2023/2024,Manitoba,"Mathematics, computer and information sciences",6023.0
+2019/2020,Manitoba,Engineering,5148.0
+2020/2021,Manitoba,Engineering,5341.0
+2021/2022,Manitoba,Engineering,5541.0
+2022/2023,Manitoba,Engineering,5749.0
+2023/2024,Manitoba,Engineering,5907.0
+2019/2020,Manitoba,Architecture,5148.0
+2020/2021,Manitoba,Architecture,5341.0
+2021/2022,Manitoba,Architecture,5541.0
+2022/2023,Manitoba,Architecture,5749.0
+2023/2024,Manitoba,Architecture,5907.0
+2019/2020,Manitoba,"Agriculture, natural resources and conservation",5175.0
+2020/2021,Manitoba,"Agriculture, natural resources and conservation",5364.0
+2021/2022,Manitoba,"Agriculture, natural resources and conservation",5552.0
+2022/2023,Manitoba,"Agriculture, natural resources and conservation",5767.0
+2023/2024,Manitoba,"Agriculture, natural resources and conservation",5926.0
+2019/2020,Manitoba,Dentistry,5148.0
+2020/2021,Manitoba,Dentistry,5341.0
+2021/2022,Manitoba,Dentistry,5541.0
+2022/2023,Manitoba,Dentistry,5749.0
+2023/2024,Manitoba,Dentistry,5907.0
+2019/2020,Manitoba,Nursing,4753.0
+2020/2021,Manitoba,Nursing,4905.0
+2021/2022,Manitoba,Nursing,5267.0
+2022/2023,Manitoba,Nursing,5502.0
+2023/2024,Manitoba,Nursing,5654.0
+2019/2020,Manitoba,Pharmacy,5148.0
+2020/2021,Manitoba,Pharmacy,5341.0
+2021/2022,Manitoba,Pharmacy,5541.0
+2022/2023,Manitoba,Pharmacy,5749.0
+2023/2024,Manitoba,Pharmacy,5907.0
+2019/2020,Manitoba,"Other health, parks, recreation and fitness",5148.0
+2020/2021,Manitoba,"Other health, parks, recreation and fitness",5341.0
+2021/2022,Manitoba,"Other health, parks, recreation and fitness",5541.0
+2022/2023,Manitoba,"Other health, parks, recreation and fitness",5749.0
+2023/2024,Manitoba,"Other health, parks, recreation and fitness",5907.0
+2021/2022,Manitoba,"Personal, protective and transportation services",6800.0
+2022/2023,Manitoba,"Personal, protective and transportation services",6995.0
+2023/2024,Manitoba,"Personal, protective and transportation services",7188.0
+2019/2020,Saskatchewan,"Total, field of study",4346.0
+2020/2021,Saskatchewan,"Total, field of study",4370.0
+2021/2022,Saskatchewan,"Total, field of study",4757.0
+2022/2023,Saskatchewan,"Total, field of study",5042.0
+2023/2024,Saskatchewan,"Total, field of study",5276.0
+2019/2020,Saskatchewan,Education,3302.0
+2020/2021,Saskatchewan,Education,3284.0
+2021/2022,Saskatchewan,Education,3365.0
+2022/2023,Saskatchewan,Education,3680.0
+2023/2024,Saskatchewan,Education,3848.0
+2019/2020,Saskatchewan,"Visual and performing arts, and communications technologies",3577.0
+2020/2021,Saskatchewan,"Visual and performing arts, and communications technologies",3648.0
+2021/2022,Saskatchewan,"Visual and performing arts, and communications technologies",3876.0
+2022/2023,Saskatchewan,"Visual and performing arts, and communications technologies",4042.0
+2023/2024,Saskatchewan,"Visual and performing arts, and communications technologies",4218.0
+2019/2020,Saskatchewan,Humanities,3050.0
+2020/2021,Saskatchewan,Humanities,3040.0
+2021/2022,Saskatchewan,Humanities,3268.0
+2022/2023,Saskatchewan,Humanities,3451.0
+2023/2024,Saskatchewan,Humanities,3614.0
+2019/2020,Saskatchewan,"Social and behavioural sciences, and legal studies ",3764.0
+2020/2021,Saskatchewan,"Social and behavioural sciences, and legal studies ",3722.0
+2021/2022,Saskatchewan,"Social and behavioural sciences, and legal studies ",4103.0
+2022/2023,Saskatchewan,"Social and behavioural sciences, and legal studies ",4196.0
+2023/2024,Saskatchewan,"Social and behavioural sciences, and legal studies ",4385.0
+2019/2020,Saskatchewan,Law,2840.0
+2020/2021,Saskatchewan,Law,2840.0
+2021/2022,Saskatchewan,Law,2982.0
+2022/2023,Saskatchewan,Law,3132.0
+2023/2024,Saskatchewan,Law,3288.0
+2019/2020,Saskatchewan,"Business, management and public administration",7103.0
+2020/2021,Saskatchewan,"Business, management and public administration",7181.0
+2021/2022,Saskatchewan,"Business, management and public administration",6911.0
+2022/2023,Saskatchewan,"Business, management and public administration",7320.0
+2023/2024,Saskatchewan,"Business, management and public administration",7516.0
+2019/2020,Saskatchewan,Executive MBA,53305.0
+2020/2021,Saskatchewan,Executive MBA,53305.0
+2021/2022,Saskatchewan,Executive MBA,53305.0
+2022/2023,Saskatchewan,Executive MBA,55175.0
+2023/2024,Saskatchewan,Executive MBA,55175.0
+2019/2020,Saskatchewan,Regular MBA,19338.0
+2020/2021,Saskatchewan,Regular MBA,18432.0
+2021/2022,Saskatchewan,Regular MBA,13890.0
+2022/2023,Saskatchewan,Regular MBA,14378.0
+2023/2024,Saskatchewan,Regular MBA,14955.0
+2019/2020,Saskatchewan,Physical and life sciences and technologies,3107.0
+2020/2021,Saskatchewan,Physical and life sciences and technologies,3081.0
+2021/2022,Saskatchewan,Physical and life sciences and technologies,3257.0
+2022/2023,Saskatchewan,Physical and life sciences and technologies,3412.0
+2023/2024,Saskatchewan,Physical and life sciences and technologies,3574.0
+2019/2020,Saskatchewan,"Mathematics, computer and information sciences",3234.0
+2020/2021,Saskatchewan,"Mathematics, computer and information sciences",3158.0
+2021/2022,Saskatchewan,"Mathematics, computer and information sciences",3958.0
+2022/2023,Saskatchewan,"Mathematics, computer and information sciences",4261.0
+2023/2024,Saskatchewan,"Mathematics, computer and information sciences",4452.0
+2019/2020,Saskatchewan,Engineering,3782.0
+2020/2021,Saskatchewan,Engineering,3782.0
+2021/2022,Saskatchewan,Engineering,4186.0
+2022/2023,Saskatchewan,Engineering,4785.0
+2023/2024,Saskatchewan,Engineering,5259.0
+2019/2020,Saskatchewan,"Agriculture, natural resources and conservation",2840.0
+2020/2021,Saskatchewan,"Agriculture, natural resources and conservation",2840.0
+2021/2022,Saskatchewan,"Agriculture, natural resources and conservation",2982.0
+2022/2023,Saskatchewan,"Agriculture, natural resources and conservation",3132.0
+2023/2024,Saskatchewan,"Agriculture, natural resources and conservation",3288.0
+2019/2020,Saskatchewan,Nursing,3925.0
+2020/2021,Saskatchewan,Nursing,4194.0
+2021/2022,Saskatchewan,Nursing,3954.0
+2022/2023,Saskatchewan,Nursing,3795.0
+2023/2024,Saskatchewan,Nursing,3973.0
+2019/2020,Saskatchewan,Pharmacy,2840.0
+2020/2021,Saskatchewan,Pharmacy,2840.0
+2021/2022,Saskatchewan,Pharmacy,2982.0
+2022/2023,Saskatchewan,Pharmacy,3132.0
+2023/2024,Saskatchewan,Pharmacy,3288.0
+2019/2020,Saskatchewan,Veterinary medicine,2840.0
+2020/2021,Saskatchewan,Veterinary medicine,2840.0
+2021/2022,Saskatchewan,Veterinary medicine,2982.0
+2022/2023,Saskatchewan,Veterinary medicine,3132.0
+2023/2024,Saskatchewan,Veterinary medicine,3288.0
+2019/2020,Saskatchewan,"Other health, parks, recreation and fitness",7579.0
+2020/2021,Saskatchewan,"Other health, parks, recreation and fitness",7630.0
+2021/2022,Saskatchewan,"Other health, parks, recreation and fitness",8786.0
+2022/2023,Saskatchewan,"Other health, parks, recreation and fitness",8900.0
+2023/2024,Saskatchewan,"Other health, parks, recreation and fitness",9257.0
+2020/2021,Saskatchewan,"Personal, protective and transportation services",4388.0
+2021/2022,Saskatchewan,"Personal, protective and transportation services",4564.0
+2022/2023,Saskatchewan,"Personal, protective and transportation services",4725.0
+2023/2024,Saskatchewan,"Personal, protective and transportation services",4916.0
+2019/2020,Alberta,"Total, field of study",6749.0
+2020/2021,Alberta,"Total, field of study",6673.0
+2021/2022,Alberta,"Total, field of study",6764.0
+2022/2023,Alberta,"Total, field of study",7515.0
+2023/2024,Alberta,"Total, field of study",7879.0
+2019/2020,Alberta,Education,7317.0
+2020/2021,Alberta,Education,7076.0
+2021/2022,Alberta,Education,7370.0
+2022/2023,Alberta,Education,7637.0
+2023/2024,Alberta,Education,7874.0
+2019/2020,Alberta,"Visual and performing arts, and communications technologies",5186.0
+2020/2021,Alberta,"Visual and performing arts, and communications technologies",4917.0
+2021/2022,Alberta,"Visual and performing arts, and communications technologies",5090.0
+2022/2023,Alberta,"Visual and performing arts, and communications technologies",5372.0
+2023/2024,Alberta,"Visual and performing arts, and communications technologies",5604.0
+2019/2020,Alberta,Humanities,4889.0
+2020/2021,Alberta,Humanities,4747.0
+2021/2022,Alberta,Humanities,5005.0
+2022/2023,Alberta,Humanities,5370.0
+2023/2024,Alberta,Humanities,5624.0
+2019/2020,Alberta,"Social and behavioural sciences, and legal studies ",6858.0
+2020/2021,Alberta,"Social and behavioural sciences, and legal studies ",6687.0
+2021/2022,Alberta,"Social and behavioural sciences, and legal studies ",5264.0
+2022/2023,Alberta,"Social and behavioural sciences, and legal studies ",7554.0
+2023/2024,Alberta,"Social and behavioural sciences, and legal studies ",7909.0
+2019/2020,Alberta,Law,5444.0
+2020/2021,Alberta,Law,5040.0
+2021/2022,Alberta,Law,5165.0
+2022/2023,Alberta,Law,5294.0
+2023/2024,Alberta,Law,5558.0
+2019/2020,Alberta,"Business, management and public administration",22567.0
+2020/2021,Alberta,"Business, management and public administration",23776.0
+2021/2022,Alberta,"Business, management and public administration",24342.0
+2022/2023,Alberta,"Business, management and public administration",25346.0
+2023/2024,Alberta,"Business, management and public administration",26484.0
+2019/2020,Alberta,Executive MBA,27775.0
+2020/2021,Alberta,Executive MBA,30961.0
+2021/2022,Alberta,Executive MBA,31087.0
+2022/2023,Alberta,Executive MBA,32134.0
+2023/2024,Alberta,Executive MBA,33313.0
+2019/2020,Alberta,Regular MBA,13143.0
+2020/2021,Alberta,Regular MBA,14517.0
+2021/2022,Alberta,Regular MBA,15327.0
+2022/2023,Alberta,Regular MBA,21182.0
+2023/2024,Alberta,Regular MBA,25317.0
+2019/2020,Alberta,Physical and life sciences and technologies,5168.0
+2020/2021,Alberta,Physical and life sciences and technologies,4900.0
+2021/2022,Alberta,Physical and life sciences and technologies,5181.0
+2022/2023,Alberta,Physical and life sciences and technologies,5518.0
+2023/2024,Alberta,Physical and life sciences and technologies,5751.0
+2019/2020,Alberta,"Mathematics, computer and information sciences",4981.0
+2020/2021,Alberta,"Mathematics, computer and information sciences",4688.0
+2021/2022,Alberta,"Mathematics, computer and information sciences",4953.0
+2022/2023,Alberta,"Mathematics, computer and information sciences",5246.0
+2023/2024,Alberta,"Mathematics, computer and information sciences",5512.0
+2019/2020,Alberta,Engineering,4877.0
+2020/2021,Alberta,Engineering,4721.0
+2021/2022,Alberta,Engineering,4995.0
+2022/2023,Alberta,Engineering,5404.0
+2023/2024,Alberta,Engineering,5673.0
+2019/2020,Alberta,Architecture,12499.0
+2020/2021,Alberta,Architecture,7648.0
+2021/2022,Alberta,Architecture,8183.0
+2022/2023,Alberta,Architecture,8756.0
+2023/2024,Alberta,Architecture,9514.0
+2019/2020,Alberta,"Agriculture, natural resources and conservation",7447.0
+2020/2021,Alberta,"Agriculture, natural resources and conservation",7583.0
+2021/2022,Alberta,"Agriculture, natural resources and conservation",6086.0
+2022/2023,Alberta,"Agriculture, natural resources and conservation",6418.0
+2023/2024,Alberta,"Agriculture, natural resources and conservation",6763.0
+2019/2020,Alberta,Nursing,8127.0
+2020/2021,Alberta,Nursing,8420.0
+2021/2022,Alberta,Nursing,9283.0
+2022/2023,Alberta,Nursing,9960.0
+2023/2024,Alberta,Nursing,10486.0
+2019/2020,Alberta,Pharmacy,3745.0
+2020/2021,Alberta,Pharmacy,4007.0
+2021/2022,Alberta,Pharmacy,4287.0
+2022/2023,Alberta,Pharmacy,4586.0
+2023/2024,Alberta,Pharmacy,4838.0
+2019/2020,Alberta,Veterinary medicine,5594.0
+2020/2021,Alberta,Veterinary medicine,3464.0
+2021/2022,Alberta,Veterinary medicine,3464.0
+2022/2023,Alberta,Veterinary medicine,3533.0
+2023/2024,Alberta,Veterinary medicine,3604.0
+2019/2020,Alberta,"Other health, parks, recreation and fitness",4524.0
+2020/2021,Alberta,"Other health, parks, recreation and fitness",4644.0
+2021/2022,Alberta,"Other health, parks, recreation and fitness",4952.0
+2022/2023,Alberta,"Other health, parks, recreation and fitness",5301.0
+2023/2024,Alberta,"Other health, parks, recreation and fitness",5580.0
+2019/2020,British Columbia,"Total, field of study",9047.0
+2020/2021,British Columbia,"Total, field of study",9579.0
+2021/2022,British Columbia,"Total, field of study",9823.0
+2022/2023,British Columbia,"Total, field of study",10524.0
+2023/2024,British Columbia,"Total, field of study",10748.0
+2019/2020,British Columbia,Education,7531.0
+2020/2021,British Columbia,Education,7596.0
+2021/2022,British Columbia,Education,7678.0
+2022/2023,British Columbia,Education,8899.0
+2023/2024,British Columbia,Education,9077.0
+2019/2020,British Columbia,"Visual and performing arts, and communications technologies",4880.0
+2020/2021,British Columbia,"Visual and performing arts, and communications technologies",4989.0
+2021/2022,British Columbia,"Visual and performing arts, and communications technologies",5127.0
+2022/2023,British Columbia,"Visual and performing arts, and communications technologies",5376.0
+2023/2024,British Columbia,"Visual and performing arts, and communications technologies",5484.0
+2019/2020,British Columbia,Humanities,4898.0
+2020/2021,British Columbia,Humanities,4942.0
+2021/2022,British Columbia,Humanities,5092.0
+2022/2023,British Columbia,Humanities,5456.0
+2023/2024,British Columbia,Humanities,5565.0
+2019/2020,British Columbia,"Social and behavioural sciences, and legal studies ",6847.0
+2020/2021,British Columbia,"Social and behavioural sciences, and legal studies ",7521.0
+2021/2022,British Columbia,"Social and behavioural sciences, and legal studies ",7795.0
+2022/2023,British Columbia,"Social and behavioural sciences, and legal studies ",7858.0
+2023/2024,British Columbia,"Social and behavioural sciences, and legal studies ",8016.0
+2019/2020,British Columbia,Law,13297.0
+2020/2021,British Columbia,Law,13737.0
+2021/2022,British Columbia,Law,13530.0
+2022/2023,British Columbia,Law,13401.0
+2023/2024,British Columbia,Law,13669.0
+2019/2020,British Columbia,"Business, management and public administration",13037.0
+2020/2021,British Columbia,"Business, management and public administration",15528.0
+2021/2022,British Columbia,"Business, management and public administration",16382.0
+2022/2023,British Columbia,"Business, management and public administration",18288.0
+2023/2024,British Columbia,"Business, management and public administration",18654.0
+2019/2020,British Columbia,Executive MBA,18447.0
+2020/2021,British Columbia,Executive MBA,18159.0
+2021/2022,British Columbia,Executive MBA,19925.0
+2022/2023,British Columbia,Executive MBA,18307.0
+2023/2024,British Columbia,Executive MBA,18673.0
+2019/2020,British Columbia,Regular MBA,27976.0
+2020/2021,British Columbia,Regular MBA,28520.0
+2021/2022,British Columbia,Regular MBA,29062.0
+2022/2023,British Columbia,Regular MBA,36338.0
+2023/2024,British Columbia,Regular MBA,37064.0
+2019/2020,British Columbia,Physical and life sciences and technologies,11717.0
+2020/2021,British Columbia,Physical and life sciences and technologies,11830.0
+2021/2022,British Columbia,Physical and life sciences and technologies,11350.0
+2022/2023,British Columbia,Physical and life sciences and technologies,11716.0
+2023/2024,British Columbia,Physical and life sciences and technologies,11951.0
+2019/2020,British Columbia,"Mathematics, computer and information sciences",14246.0
+2020/2021,British Columbia,"Mathematics, computer and information sciences",14590.0
+2021/2022,British Columbia,"Mathematics, computer and information sciences",14717.0
+2022/2023,British Columbia,"Mathematics, computer and information sciences",16018.0
+2023/2024,British Columbia,"Mathematics, computer and information sciences",16609.0
+2019/2020,British Columbia,Engineering,16373.0
+2020/2021,British Columbia,Engineering,16583.0
+2021/2022,British Columbia,Engineering,16393.0
+2022/2023,British Columbia,Engineering,18061.0
+2023/2024,British Columbia,Engineering,18423.0
+2019/2020,British Columbia,Architecture,7029.0
+2020/2021,British Columbia,Architecture,7298.0
+2021/2022,British Columbia,Architecture,7525.0
+2022/2023,British Columbia,Architecture,7751.0
+2023/2024,British Columbia,Architecture,7906.0
+2019/2020,British Columbia,"Agriculture, natural resources and conservation",9278.0
+2020/2021,British Columbia,"Agriculture, natural resources and conservation",9263.0
+2021/2022,British Columbia,"Agriculture, natural resources and conservation",9928.0
+2022/2023,British Columbia,"Agriculture, natural resources and conservation",10229.0
+2023/2024,British Columbia,"Agriculture, natural resources and conservation",10426.0
+2019/2020,British Columbia,Dentistry,11735.0
+2020/2021,British Columbia,Dentistry,11970.0
+2021/2022,British Columbia,Dentistry,12209.0
+2022/2023,British Columbia,Dentistry,12453.0
+2023/2024,British Columbia,Dentistry,12702.0
+2019/2020,British Columbia,Nursing,5134.0
+2020/2021,British Columbia,Nursing,5223.0
+2021/2022,British Columbia,Nursing,5406.0
+2022/2023,British Columbia,Nursing,5523.0
+2023/2024,British Columbia,Nursing,5632.0
+2019/2020,British Columbia,Pharmacy,4996.0
+2020/2021,British Columbia,Pharmacy,5096.0
+2021/2022,British Columbia,Pharmacy,5198.0
+2022/2023,British Columbia,Pharmacy,5302.0
+2023/2024,British Columbia,Pharmacy,5408.0
+2019/2020,British Columbia,"Other health, parks, recreation and fitness",5925.0
+2020/2021,British Columbia,"Other health, parks, recreation and fitness",6028.0
+2021/2022,British Columbia,"Other health, parks, recreation and fitness",6149.0
+2022/2023,British Columbia,"Other health, parks, recreation and fitness",6412.0
+2023/2024,British Columbia,"Other health, parks, recreation and fitness",6541.0
+2019/2020,British Columbia,"Personal, protective and transportation services",12640.0
+2020/2021,British Columbia,"Personal, protective and transportation services",12893.0
+2021/2022,British Columbia,"Personal, protective and transportation services",13151.0
+2022/2023,British Columbia,"Personal, protective and transportation services",13414.0
+2023/2024,British Columbia,"Personal, protective and transportation services",13682.0
